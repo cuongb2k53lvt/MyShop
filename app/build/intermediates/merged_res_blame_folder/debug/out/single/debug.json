@@ -1,0 +1,694 @@
+[
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-hdpi_ic_size_m.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-hdpi\\ic_size_m.png"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/layout_product_item_layout.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/layout/product_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_test_img.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\test_img.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_border_button_fb.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\border_button_fb.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_activity_detail_history.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_detail_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_bt_btn_feedback.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\bt_btn_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_cart.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-anydpi-v24_ic_size_l.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-anydpi-v24\\ic_size_l.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_background_searchview.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\background_searchview.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_mail.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_border_button_payment.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\border_button_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_cart_background_oval.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\cart_background_oval.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xxxhdpi_ic_size_s.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-xxxhdpi\\ic_size_s.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\font_nunito_light.ttf.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\font\\nunito_light.ttf"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable_bt_filter_history_cancel.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable/bt_filter_history_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_view_search.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\view_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_fragment_category_men.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_category_men.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/layout_fragment_profile.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_transition_background_drawable_person.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\transition_background_drawable_person.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable-xxhdpi_waiting.png.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable-xxhdpi/waiting.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_item_product_detail_image_view_pager.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_product_detail_image_view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_back_arrow.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_back_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_item_subproducts.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_subproducts.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable_bg_top_filter.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable/bg_top_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\font_nunito_italic_variable_font_wght.ttf.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\font\\nunito_italic_variable_font_wght.ttf"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/layout_item_history.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/layout/item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_bg_btn_out.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\bg_btn_out.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable-xxhdpi_shipped.png.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable-xxhdpi/shipped.png"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable_bg_btn_product_detail_buy.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable/bg_btn_product_detail_buy.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_home_background_oval.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\home_background_oval.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_item_history.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_history.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable_ic_next_profile.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable/ic_next_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_transition_background_drawable_home.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\transition_background_drawable_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_selector_tab_text.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\selector_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_bg_btn_product_detail_buy.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\bg_btn_product_detail_buy.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_bg_gradient_blue.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\bg_gradient_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-anydpi-v24_ic_size_m.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-anydpi-v24\\ic_size_m.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_category_background_oval.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\category_background_oval.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_logo.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-mdpi_ic_add.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-mdpi_ic_size_m.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-mdpi\\ic_size_m.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xxxhdpi_ic_size_xl.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-xxxhdpi\\ic_size_xl.png"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/layout_activity_history.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/layout/activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_product02.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\product02.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_activity_order_status.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_order_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_border_around.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\border_around.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xxhdpi_ic_size_l.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-xxhdpi\\ic_size_l.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_rv_product_items_layout.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\rv_product_items_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable-xxhdpi_order.png.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable-xxhdpi/order.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_sale_item_main.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\sale_item_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-hdpi_ic_size_l.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-hdpi\\ic_size_l.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_transition_background_drawable_category.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\transition_background_drawable_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_user.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\user.png"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/layout_dialog_feedback.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/layout/dialog_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-ldpi_ic_size_s.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-ldpi\\ic_size_s.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_layout_dialog_change_profile.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\layout_dialog_change_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_person_background_oval.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\person_background_oval.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_bg_clothes_avatar.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\bg_clothes_avatar.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable_bt_filter_history_select.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable/bt_filter_history_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xxxhdpi_ic_size_l.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-xxxhdpi\\ic_size_l.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_shop_cart.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_shop_cart.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/layout_activity_product_detail.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_fragment_cart.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-anydpi-v24_ic_size_s.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-anydpi-v24\\ic_size_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_layout_dialog_change_birthday.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\layout_dialog_change_birthday.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_layout_inner_tab.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\layout_inner_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xhdpi_ic_size_l.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-xhdpi\\ic_size_l.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_dialog_feedback.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\dialog_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_bg_search_view.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\bg_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-ldpi_ic_size_xl.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-ldpi\\ic_size_xl.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable_cart_profile.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable/cart_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-mdpi_ic_size_s.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-mdpi\\ic_size_s.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_item_orderstatus.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_orderstatus.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable-xxhdpi_filter_history.png.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable-xxhdpi/filter_history.png"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/layout_fragment_main.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_arrow_left.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_arrow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xhdpi_ic_size_s.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-xhdpi\\ic_size_s.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-mdpi_ic_size_l.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-mdpi\\ic_size_l.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-anydpi_ic_add.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable-anydpi\\ic_add.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable-xxhdpi_confirm.png.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable-xxhdpi/confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable_bt_filter_history_ok.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable/bt_filter_history_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_back_detail_history.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_back_detail_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-v24_ic_google.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable-v24\\ic_google.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_transition_background_drawable_cart.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\transition_background_drawable_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\font_nunito_bold.ttf.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\font\\nunito_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_bt_bg_feedback.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\bt_bg_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_sex.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_sex.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable_logout.png.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable/logout.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\font_nunito_variablefont_wght.ttf.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\font\\nunito_variablefont_wght.ttf"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_category.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_product01.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\product01.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\anim_left_to_right.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\anim\\left_to_right.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/layout_dialog_filter_history.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/layout/dialog_filter_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_item_clothes.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_clothes.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable_bt_item_filter_history.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable/bt_item_filter_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-ldpi_ic_size_m.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-ldpi\\ic_size_m.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_order.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\order.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_bt_toolbar_history.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\bt_toolbar_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_fragment_men_page.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_men_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\anim_zoom.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\anim\\zoom.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_check.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_bg_content_top.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\bg_content_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_bg_product_detail_info.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\bg_product_detail_info.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable_bg_btn_out.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable/bg_btn_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_test_img2.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\test_img2.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-v24_ic_left_arrow.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable-v24\\ic_left_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_birthday.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_birthday.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_arrow.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-hdpi_ic_size_xl.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-hdpi\\ic_size_xl.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xxxhdpi_ic_size_m.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-xxxhdpi\\ic_size_m.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_layout_dialog_change_sex.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\layout_dialog_change_sex.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xxhdpi_ic_size_xl.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-xxhdpi\\ic_size_xl.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_fragment_women_page.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_women_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_fragment_category_women.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_category_women.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xxhdpi_ic_size_s.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-xxhdpi\\ic_size_s.png"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable_ic_next_history.xml.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable/ic_next_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xhdpi_ic_size_m.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-xhdpi\\ic_size_m.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-hdpi_ic_add.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_bt_item_history.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\bt_item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_product_item_layout.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\product_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-mdpi_ic_size_xl.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-mdpi\\ic_size_xl.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\menu_menu_navigation.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\menu\\menu_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_boder_button_amount.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\boder_button_amount.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\color_custom_color_bottomnavigation.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\color\\custom_color_bottomnavigation.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-merged_res-36:/drawable-xxhdpi_logout_profile.png.flat",
+        "source": "com.example.modelfashion.app-main-38:/drawable-xxhdpi/logout_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_bg_information_line.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\bg_information_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-hdpi_ic_size_s.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-hdpi\\ic_size_s.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xxhdpi_ic_size_m.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-xxhdpi\\ic_size_m.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-ldpi_ic_size_l.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-ldpi\\ic_size_l.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_border_edit_text.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\border_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_fragment_category.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\color_tab_color.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\color\\tab_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-xhdpi_ic_size_xl.png.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-xhdpi\\ic_size_xl.png"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable_bt_feedback.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\drawable\\bt_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\layout_item_category_left_list.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_category_left_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\drawable-anydpi-v24_ic_size_xl.xml.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-pngs-31:\\drawable-anydpi-v24\\ic_size_xl.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-merged_res-36:\\font_nunito_medium.ttf.flat",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\font\\nunito_medium.ttf"
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\activity_product_detail.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\layout_dialog_change_birthday.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\layout_dialog_change_birthday.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\fragment_cart.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-mergeDebugResources-35:/layout/fragment_main.xml",
+        "source": "com.example.modelfashion.app-main-38:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\item_product_detail_image_view_pager.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_product_detail_image_view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\view_search.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\view_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\item_subproducts.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_subproducts.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\activity_detail_history.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_detail_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\rv_product_items_layout.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\rv_product_items_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\item_category_left_list.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_category_left_list.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-mergeDebugResources-35:/layout/dialog_filter_history.xml",
+        "source": "com.example.modelfashion.app-main-38:/layout/dialog_filter_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\product_item_layout.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\product_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\item_orderstatus.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_orderstatus.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\dialog_feedback.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\dialog_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\fragment_category_men.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_category_men.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\layout_inner_tab.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\layout_inner_tab.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-mergeDebugResources-35:/layout/item_history.xml",
+        "source": "com.example.modelfashion.app-main-38:/layout/item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\item_history.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\layout_dialog_change_sex.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\layout_dialog_change_sex.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\fragment_women_page.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_women_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\layout_dialog_change_profile.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\layout_dialog_change_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\item_cart.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\fragment_men_page.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_men_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-mergeDebugResources-35:/layout/fragment_profile.xml",
+        "source": "com.example.modelfashion.app-main-38:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-mergeDebugResources-35:/layout/dialog_feedback.xml",
+        "source": "com.example.modelfashion.app-main-38:/layout/dialog_feedback.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-mergeDebugResources-35:/layout/activity_history.xml",
+        "source": "com.example.modelfashion.app-main-38:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-mergeDebugResources-35:/layout/activity_product_detail.xml",
+        "source": "com.example.modelfashion.app-main-38:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\fragment_category_women.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_category_women.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\sale_item_main.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\sale_item_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\item_clothes.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\item_clothes.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\fragment_category.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "com.example.modelfashion.app-mergeDebugResources-35:/layout/product_item_layout.xml",
+        "source": "com.example.modelfashion.app-main-38:/layout/product_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-mergeDebugResources-35:\\layout\\activity_order_status.xml",
+        "source": "C:\\Users\\P\\.gradle\\daemon\\7.4\\com.example.modelfashion.app-main-38:\\layout\\activity_order_status.xml"
+    }
+]
