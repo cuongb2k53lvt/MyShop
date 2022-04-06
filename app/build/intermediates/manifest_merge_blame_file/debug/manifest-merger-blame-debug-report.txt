@@ -32,8 +32,8 @@
 17-->C:\Users\P\Desktop\TotNghiep\ModelFashion\app\src\main\AndroidManifest.xml:11:5-81
 17-->C:\Users\P\Desktop\TotNghiep\ModelFashion\app\src\main\AndroidManifest.xml:11:22-78
 18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-18-->[com.android.installreferrer:installreferrer:1.0] C:\Users\P\.gradle\caches\transforms-3\0238810524ce7b357bd752d263334bb9\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
-18-->[com.android.installreferrer:installreferrer:1.0] C:\Users\P\.gradle\caches\transforms-3\0238810524ce7b357bd752d263334bb9\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
+18-->[com.android.installreferrer:installreferrer:1.0] C:\Users\P\.gradle\caches\transforms-3\398df0ae448d8c85199e4d694e0081cb\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+18-->[com.android.installreferrer:installreferrer:1.0] C:\Users\P\.gradle\caches\transforms-3\398df0ae448d8c85199e4d694e0081cb\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
 19
 20    <application
 20-->C:\Users\P\Desktop\TotNghiep\ModelFashion\app\src\main\AndroidManifest.xml:13:5-60:19
@@ -134,71 +134,71 @@
 69-->C:\Users\P\Desktop\TotNghiep\ModelFashion\app\src\main\AndroidManifest.xml:59:13-36
 70
 71        <provider
-71-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\62c53e102f3affb3e7ca91118b7f0fae\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:14:9-22:20
+71-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\4cd8590a2699fd9a602154f1bb85b673\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:14:9-22:20
 72            android:name="androidx.core.content.FileProvider"
-72-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\62c53e102f3affb3e7ca91118b7f0fae\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:15:13-62
+72-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\4cd8590a2699fd9a602154f1bb85b673\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:15:13-62
 73            android:authorities="com.example.modelfashion.provider"
-73-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\62c53e102f3affb3e7ca91118b7f0fae\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:16:13-60
+73-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\4cd8590a2699fd9a602154f1bb85b673\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:16:13-60
 74            android:exported="false"
-74-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\62c53e102f3affb3e7ca91118b7f0fae\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:17:13-37
+74-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\4cd8590a2699fd9a602154f1bb85b673\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:17:13-37
 75            android:grantUriPermissions="true" >
-75-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\62c53e102f3affb3e7ca91118b7f0fae\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:18:13-47
+75-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\4cd8590a2699fd9a602154f1bb85b673\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:18:13-47
 76            <meta-data
-76-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\62c53e102f3affb3e7ca91118b7f0fae\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:19:13-21:58
+76-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\4cd8590a2699fd9a602154f1bb85b673\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:19:13-21:58
 77                android:name="android.support.FILE_PROVIDER_PATHS"
-77-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\62c53e102f3affb3e7ca91118b7f0fae\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:20:17-67
+77-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\4cd8590a2699fd9a602154f1bb85b673\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:20:17-67
 78                android:resource="@xml/provider_paths" />
-78-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\62c53e102f3affb3e7ca91118b7f0fae\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:21:17-55
+78-->[gun0912.ted:tedbottompicker:2.0.1] C:\Users\P\.gradle\caches\transforms-3\4cd8590a2699fd9a602154f1bb85b673\transformed\jetified-tedbottompicker-2.0.1\AndroidManifest.xml:21:17-55
 79        </provider>
 80
 81        <activity
-81-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:30:9-33:66
+81-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:30:9-33:66
 82            android:name="com.facebook.FacebookActivity"
-82-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:31:13-57
+82-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:31:13-57
 83            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-83-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:32:13-96
+83-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:32:13-96
 84            android:theme="@style/com_facebook_activity_theme" />
-84-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:33:13-63
+84-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:33:13-63
 85        <activity android:name="com.facebook.CustomTabMainActivity" />
-85-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:34:9-71
-85-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:34:19-68
+85-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:34:9-71
+85-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:34:19-68
 86        <activity
-86-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:35:9-49:20
+86-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:35:9-49:20
 87            android:name="com.facebook.CustomTabActivity"
-87-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:36:13-58
+87-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:36:13-58
 88            android:exported="true" >
-88-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:37:13-36
+88-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:37:13-36
 89            <intent-filter>
-89-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:39:13-48:29
+89-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:39:13-48:29
 90                <action android:name="android.intent.action.VIEW" />
-90-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:40:17-69
-90-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:40:25-66
+90-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:40:17-69
+90-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:40:25-66
 91
 92                <category android:name="android.intent.category.DEFAULT" />
-92-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:42:17-76
-92-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:42:27-73
+92-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:42:17-76
+92-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:42:27-73
 93                <category android:name="android.intent.category.BROWSABLE" />
-93-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:43:17-78
-93-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:43:27-75
+93-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:43:17-78
+93-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:43:27-75
 94
 95                <data
-95-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:45:17-47:50
+95-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:45:17-47:50
 96                    android:host="cct.com.example.modelfashion"
-96-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:46:21-56
+96-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:46:21-56
 97                    android:scheme="fbconnect" />
-97-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\3285c0b395c1bc479067ce25a77dfe16\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:47:21-47
+97-->[com.facebook.android:facebook-common:6.5.1] C:\Users\P\.gradle\caches\transforms-3\334e614693ca072fc770151dd0e46455\transformed\jetified-facebook-common-6.5.1\AndroidManifest.xml:47:21-47
 98            </intent-filter>
 99        </activity>
 100        <activity
-100-->[gun0912.ted:tedonactivityresult:1.0.6] C:\Users\P\.gradle\caches\transforms-3\c75749e55295a5deef3a18944b8a4193\transformed\jetified-tedonactivityresult-1.0.6\AndroidManifest.xml:10:9-14:75
+100-->[gun0912.ted:tedonactivityresult:1.0.6] C:\Users\P\.gradle\caches\transforms-3\8cd793914c2b3807ea1ade3834beb053\transformed\jetified-tedonactivityresult-1.0.6\AndroidManifest.xml:10:9-14:75
 101            android:name="com.gun0912.tedonactivityresult.ProxyActivity"
-101-->[gun0912.ted:tedonactivityresult:1.0.6] C:\Users\P\.gradle\caches\transforms-3\c75749e55295a5deef3a18944b8a4193\transformed\jetified-tedonactivityresult-1.0.6\AndroidManifest.xml:11:13-73
+101-->[gun0912.ted:tedonactivityresult:1.0.6] C:\Users\P\.gradle\caches\transforms-3\8cd793914c2b3807ea1ade3834beb053\transformed\jetified-tedonactivityresult-1.0.6\AndroidManifest.xml:11:13-73
 102            android:configChanges="mcc|mnc|locale|keyboard|keyboardHidden|screenLayout|fontScale|uiMode|orientation|screenSize|layoutDirection"
-102-->[gun0912.ted:tedonactivityresult:1.0.6] C:\Users\P\.gradle\caches\transforms-3\c75749e55295a5deef3a18944b8a4193\transformed\jetified-tedonactivityresult-1.0.6\AndroidManifest.xml:12:13-144
+102-->[gun0912.ted:tedonactivityresult:1.0.6] C:\Users\P\.gradle\caches\transforms-3\8cd793914c2b3807ea1ade3834beb053\transformed\jetified-tedonactivityresult-1.0.6\AndroidManifest.xml:12:13-144
 103            android:screenOrientation="unspecified"
-103-->[gun0912.ted:tedonactivityresult:1.0.6] C:\Users\P\.gradle\caches\transforms-3\c75749e55295a5deef3a18944b8a4193\transformed\jetified-tedonactivityresult-1.0.6\AndroidManifest.xml:13:13-52
+103-->[gun0912.ted:tedonactivityresult:1.0.6] C:\Users\P\.gradle\caches\transforms-3\8cd793914c2b3807ea1ade3834beb053\transformed\jetified-tedonactivityresult-1.0.6\AndroidManifest.xml:13:13-52
 104            android:theme="@style/android:Theme.Translucent.NoTitleBar" />
-104-->[gun0912.ted:tedonactivityresult:1.0.6] C:\Users\P\.gradle\caches\transforms-3\c75749e55295a5deef3a18944b8a4193\transformed\jetified-tedonactivityresult-1.0.6\AndroidManifest.xml:14:13-72
+104-->[gun0912.ted:tedonactivityresult:1.0.6] C:\Users\P\.gradle\caches\transforms-3\8cd793914c2b3807ea1ade3834beb053\transformed\jetified-tedonactivityresult-1.0.6\AndroidManifest.xml:14:13-72
 105        <activity
 105-->[io.github.ParkSangGwon:tedpermission:3.3.0] C:\Users\P\.gradle\caches\transforms-3\8a8c87c852e7c635f6e26870cabc0856\transformed\jetified-tedpermission-3.3.0\AndroidManifest.xml:10:9-14:67
 106            android:name="com.gun0912.tedpermission.TedPermissionActivity"
@@ -266,25 +266,25 @@
 143         a completely different provider.
 144        -->
 145        <provider
-145-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\acaa8fbb5155493355a3d4fc83c7b404\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:39:9-42:40
+145-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\dccdb3ebf4e6cc193c74842b095bb9e2\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:39:9-42:40
 146            android:name="com.facebook.internal.FacebookInitProvider"
-146-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\acaa8fbb5155493355a3d4fc83c7b404\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:40:13-70
+146-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\dccdb3ebf4e6cc193c74842b095bb9e2\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:40:13-70
 147            android:authorities="com.example.modelfashion.FacebookInitProvider"
-147-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\acaa8fbb5155493355a3d4fc83c7b404\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:41:13-72
+147-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\dccdb3ebf4e6cc193c74842b095bb9e2\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:41:13-72
 148            android:exported="false" />
-148-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\acaa8fbb5155493355a3d4fc83c7b404\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:42:13-37
+148-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\dccdb3ebf4e6cc193c74842b095bb9e2\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:42:13-37
 149
 150        <receiver
-150-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\acaa8fbb5155493355a3d4fc83c7b404\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:44:9-50:20
+150-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\dccdb3ebf4e6cc193c74842b095bb9e2\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:44:9-50:20
 151            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
-151-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\acaa8fbb5155493355a3d4fc83c7b404\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:45:13-86
+151-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\dccdb3ebf4e6cc193c74842b095bb9e2\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:45:13-86
 152            android:exported="false" >
-152-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\acaa8fbb5155493355a3d4fc83c7b404\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:46:13-37
+152-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\dccdb3ebf4e6cc193c74842b095bb9e2\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:46:13-37
 153            <intent-filter>
-153-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\acaa8fbb5155493355a3d4fc83c7b404\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:47:13-49:29
+153-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\dccdb3ebf4e6cc193c74842b095bb9e2\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:47:13-49:29
 154                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
-154-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\acaa8fbb5155493355a3d4fc83c7b404\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:48:17-95
-154-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\acaa8fbb5155493355a3d4fc83c7b404\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:48:25-92
+154-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\dccdb3ebf4e6cc193c74842b095bb9e2\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:48:17-95
+154-->[com.facebook.android:facebook-core:6.5.1] C:\Users\P\.gradle\caches\transforms-3\dccdb3ebf4e6cc193c74842b095bb9e2\transformed\jetified-facebook-core-6.5.1\AndroidManifest.xml:48:25-92
 155            </intent-filter>
 156        </receiver>
 157    </application>

@@ -38,6 +38,9 @@ public final class ItemCartBinding implements ViewBinding {
   public final TextView tvAmount;
 
   @NonNull
+  public final TextView tvDelete;
+
+  @NonNull
   public final TextView tvNameProduct;
 
   @NonNull
@@ -48,14 +51,16 @@ public final class ItemCartBinding implements ViewBinding {
 
   private ItemCartBinding(@NonNull RelativeLayout rootView, @NonNull AppCompatButton btnDecrease,
       @NonNull AppCompatButton btnIncrease, @NonNull CheckBox checkboxProduct,
-      @NonNull ImageView imgCart, @NonNull TextView tvAmount, @NonNull TextView tvNameProduct,
-      @NonNull TextView tvPriceProduct, @NonNull TextView tvSizeProduct) {
+      @NonNull ImageView imgCart, @NonNull TextView tvAmount, @NonNull TextView tvDelete,
+      @NonNull TextView tvNameProduct, @NonNull TextView tvPriceProduct,
+      @NonNull TextView tvSizeProduct) {
     this.rootView = rootView;
     this.btnDecrease = btnDecrease;
     this.btnIncrease = btnIncrease;
     this.checkboxProduct = checkboxProduct;
     this.imgCart = imgCart;
     this.tvAmount = tvAmount;
+    this.tvDelete = tvDelete;
     this.tvNameProduct = tvNameProduct;
     this.tvPriceProduct = tvPriceProduct;
     this.tvSizeProduct = tvSizeProduct;
@@ -118,6 +123,12 @@ public final class ItemCartBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.tv_delete;
+      TextView tvDelete = ViewBindings.findChildViewById(rootView, id);
+      if (tvDelete == null) {
+        break missingId;
+      }
+
       id = R.id.tv_name_product;
       TextView tvNameProduct = ViewBindings.findChildViewById(rootView, id);
       if (tvNameProduct == null) {
@@ -137,7 +148,8 @@ public final class ItemCartBinding implements ViewBinding {
       }
 
       return new ItemCartBinding((RelativeLayout) rootView, btnDecrease, btnIncrease,
-          checkboxProduct, imgCart, tvAmount, tvNameProduct, tvPriceProduct, tvSizeProduct);
+          checkboxProduct, imgCart, tvAmount, tvDelete, tvNameProduct, tvPriceProduct,
+          tvSizeProduct);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
